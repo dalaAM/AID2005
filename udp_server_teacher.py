@@ -1,5 +1,5 @@
 """
-udp_server.py  udp套接字编程演示
+udp_server_teacher.py  udp套接字编程演示
 重点代码
 """
 from socket import *
